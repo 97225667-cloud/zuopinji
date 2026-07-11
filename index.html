@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visual & AI & Brand Designer Portfolio</title>
+    <title>Visual & AI & Digital Product Designer Portfolio</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://unpkg.com/lucide@latest"></script>
     <style>
@@ -53,11 +53,11 @@
             </div>
             <div class="hidden md:flex items-center space-x-12 text-xs uppercase tracking-[0.2em] text-zinc-400">
                 <a href="#hero" class="hover:text-white transition-colors">首页</a>
-                <a href="#about" class="hover:text-white transition-colors">经历</a>
-                <a href="#projects" class="hover:text-white transition-colors">作品</a>
-                <a href="#advantages" class="hover:text-white transition-colors">优势</a>
+                <a href="#about" class="hover:text-white transition-colors">关于我</a>
+                <a href="#projects" class="hover:text-white transition-colors">精选作品集</a>
+                <a href="#advantages" class="hover:text-white transition-colors">核心壁垒</a>
                 <a href="#contact" class="px-5 py-2 bg-white text-black font-semibold hover:bg-indigo-600 hover:text-white transition-all rounded-none">
-                    联系我
+                    联系合作
                 </a>
             </div>
         </div>
@@ -74,16 +74,16 @@
 
         <div class="relative z-20 max-w-custom w-full px-6 md:px-12 lg:px-16 text-left">
             <p class="text-xs md:text-sm tracking-[0.4em] text-indigo-400 uppercase mb-6 font-semibold flex items-center gap-2 animate-pulse">
-                <span class="w-1.5 h-1.5 bg-indigo-400 rounded-full"></span> VISUAL / AI / BRAND DESIGNER PORTFOLIO
+                <span class="w-1.5 h-1.5 bg-indigo-400 rounded-full"></span> UI/UX • 3D MODELING • WEB DESIGN
             </p>
             <h1 class="text-5xl md:text-8xl lg:text-9xl font-extrabold tracking-tight leading-none mb-10 text-white select-none">
-                SHAPING THE <br />
+                DIGITAL CREATIVE <br />
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-zinc-100 via-zinc-400 to-zinc-700">
-                    AI VISUAL ERA.
+                    & EXPERIENCES.
                 </span>
             </h1>
             <p class="text-zinc-400 text-base md:text-xl max-w-3xl font-light leading-relaxed mb-14">
-                打破传统设计边界，融合前沿 AI 算法重构创意工作流。深度探索 Midjourney、Stable Diffusion 在品牌与视觉管线中的精准商业定制，构建克制、高级且极具未来感的数字美学。
+                打破现实与虚拟的边界，融合前沿 UI/UX 体验、UE5 虚幻引擎 3D 建模与次世代网页视觉设计。拒绝平庸模板，从商业逻辑、交互体感出发，为品牌与数字产品注入独特的克制科技主义美学。
             </p>
             <a href="#contact" class="inline-flex items-center space-x-3 group text-xs tracking-[0.2em] border-b border-white pb-2 hover:text-indigo-400 hover:border-indigo-400 transition-all font-medium">
                 <span>START A PROJECT / 发起合作</span>
@@ -107,25 +107,25 @@
             <div class="lg:col-span-7 space-y-10">
                 <div class="space-y-4">
                     <span class="text-xs uppercase tracking-[0.3em] text-indigo-400 font-mono font-bold">[ 01 / PROFILE ]</span>
-                    <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">探索纯粹美学与智能算法的交汇点</h2>
+                    <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">兼具宏观视觉规范与微观全栈执行力</h2>
                 </div>
                 
                 <p class="text-zinc-400 text-base md:text-lg leading-relaxed font-light">
-                    作为一名深耕行业多年的视觉、AI 与品牌跨界设计师。我拒绝流于平庸的模板式设计，擅长利用尖端 AI 技术重构传统创意管线。曾在多家知名创意厂牌与硬科技独角兽企业担任视觉核心负责人，帮助企业从 0 到 1 沉淀高级、精细、过目不忘的跨媒介视觉资产。
+                    我是一名深耕数字化领域的跨媒介全栈设计师。拒绝墨守成规的设计流派，擅长打通从 **Figma 极致 C 端交互规范**，到 **UE5（虚幻引擎）次世代级别 3D 空间三维建模**，再到**前沿概念性创意网页设计**的全链路全案闭环。我的目标是以数字美学赋能商业，构建充满未来感、系统性极强的品牌壁垒。
                 </p>
 
                 <div class="grid grid-cols-3 gap-6 pt-10 border-t border-[#222226]">
                     <div>
-                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">40+</div>
-                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">商业项目交付</div>
+                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">Figma</div>
+                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">UI/UX交互专家</div>
                     </div>
                     <div>
-                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">2,500+</div>
-                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">AI 工业流时数</div>
+                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">UE5</div>
+                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">3D次世代建模</div>
                     </div>
                     <div>
-                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">08</div>
-                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">行业顶尖奖项</div>
+                        <div class="text-2xl md:text-4xl font-mono font-bold text-white mb-2">Web</div>
+                        <div class="text-[10px] md:text-xs uppercase tracking-wider text-zinc-500 font-medium">前沿创意网页设计</div>
                     </div>
                 </div>
             </div>
@@ -135,49 +135,77 @@
             <div class="flex flex-col md:flex-row md:items-end justify-between gap-6">
                 <div class="space-y-4">
                     <span class="text-xs uppercase tracking-[0.3em] text-indigo-400 font-mono font-bold">[ 02 / SELECTED WORKS ]</span>
-                    <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">用严谨商业逻辑包裹的视觉艺术</h2>
+                    <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">精选设计作品流</h2>
                 </div>
                 <p class="text-zinc-500 max-w-sm text-sm font-light leading-relaxed">
-                    精选代表作：展示如何运用精确的现代栅格系统、多维材质探索与领先的生成式设计为头部品牌强势赋能。
+                    全面覆盖多维赛道：涵盖数字化交互设计、工业与艺术三维资产构建及跨媒介视觉网页呈现。
                 </p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-                <div class="group cursor-pointer space-y-6">
-                    <div class="relative overflow-hidden bg-[#121215] border border-[#222226] aspect-[16/10]">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <div class="group cursor-pointer space-y-6 bg-[#121215]/30 p-4 border border-[#222226] hover:border-zinc-700 transition-all duration-500">
+                    <div class="relative overflow-hidden bg-[#121215] aspect-[4/3]">
                         <img 
-                            src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=2564&auto=format&fit=crop" 
-                            alt="Project One" 
-                            class="w-full h-full object-cover filter brightness-[0.85] contrast-105 group-hover:scale-[1.02] group-hover:brightness-100 transition-all duration-700 ease-out"
+                            src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?q=80&w=2564&auto=format&fit=crop" 
+                            alt="Ui/ux figma设计" 
+                            class="w-full h-full object-cover filter brightness-[0.85] contrast-105 group-hover:scale-[1.03] group-hover:brightness-100 transition-all duration-700 ease-out"
                         />
-                        <div class="absolute top-6 right-6 p-3.5 bg-[#0A0A0C]/80 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all duration-300 border border-[#222226]">
-                            <i data-lucide="arrow-up-right" class="w-5 h-5 text-white"></i>
+                        <div class="absolute top-4 right-4 p-3 bg-[#0A0A0C]/80 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all duration-300 border border-[#222226]">
+                            <i data-lucide="figma" class="w-4 h-4 text-white"></i>
                         </div>
                     </div>
-                    <div class="flex justify-between items-start pt-2">
-                        <div>
-                            <h3 class="text-xl font-medium text-white group-hover:text-indigo-400 transition-colors">Cybernetic Brand Identity 2026</h3>
-                            <p class="text-xs tracking-widest text-zinc-500 mt-2 font-mono uppercase">Brand Strategy / AI Generation</p>
+                    <div class="pt-2">
+                        <div class="flex justify-between items-center">
+                            <h3 class="text-lg font-medium text-white group-hover:text-indigo-400 transition-colors">Ui/ux figma设计</h3>
+                            <span class="text-[10px] font-mono px-2 py-0.5 border border-[#222226] text-zinc-500">EXPERIENCE</span>
                         </div>
+                        <p class="text-sm text-zinc-400 mt-3 font-light leading-relaxed">
+                            基于严谨组件化思想构建的跨平台设计系统。关注极致的微交互、动态栅格弹性及无障碍用户体感。
+                        </p>
                     </div>
                 </div>
 
-                <div class="group cursor-pointer space-y-6">
-                    <div class="relative overflow-hidden bg-[#121215] border border-[#222226] aspect-[16/10]">
+                <div class="group cursor-pointer space-y-6 bg-[#121215]/30 p-4 border border-[#222226] hover:border-zinc-700 transition-all duration-500">
+                    <div class="relative overflow-hidden bg-[#121215] aspect-[4/3]">
                         <img 
-                            src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=2564&auto=format&fit=crop" 
-                            alt="Project Two" 
-                            class="w-full h-full object-cover filter brightness-[0.85] contrast-105 group-hover:scale-[1.02] group-hover:brightness-100 transition-all duration-700 ease-out"
+                            src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=2564&auto=format&fit=crop" 
+                            alt="Ue5虚幻引擎3D建模" 
+                            class="w-full h-full object-cover filter brightness-[0.85] contrast-105 group-hover:scale-[1.03] group-hover:brightness-100 transition-all duration-700 ease-out"
                         />
-                        <div class="absolute top-6 right-6 p-3.5 bg-[#0A0A0C]/80 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all duration-300 border border-[#222226]">
-                            <i data-lucide="arrow-up-right" class="w-5 h-5 text-white"></i>
+                        <div class="absolute top-4 right-4 p-3 bg-[#0A0A0C]/80 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all duration-300 border border-[#222226]">
+                            <i data-lucide="box" class="w-4 h-4 text-white"></i>
                         </div>
                     </div>
-                    <div class="flex justify-between items-start pt-2">
-                        <div>
-                            <h3 class="text-xl font-medium text-white group-hover:text-indigo-400 transition-colors">Neo-Minimalism UI Ecosystem</h3>
-                            <p class="text-xs tracking-widest text-zinc-500 mt-2 font-mono uppercase">Visual System / Digital Design</p>
+                    <div class="pt-2">
+                        <div class="flex justify-between items-center">
+                            <h3 class="text-lg font-medium text-white group-hover:text-indigo-400 transition-colors">Ue5虚幻引擎3D建模</h3>
+                            <span class="text-[10px] font-mono px-2 py-0.5 border border-[#222226] text-zinc-500">3D REALTIME</span>
                         </div>
+                        <p class="text-sm text-zinc-400 mt-3 font-light leading-relaxed">
+                            探索次世代虚幻引擎（Unreal Engine 5）下的数字孪生与高精模型重构。包含 Lumen 光追表现与写实材质探索。
+                        </p>
+                    </div>
+                </div>
+
+                <div class="group cursor-pointer space-y-6 bg-[#121215]/30 p-4 border border-[#222226] hover:border-zinc-700 transition-all duration-500">
+                    <div class="relative overflow-hidden bg-[#121215] aspect-[4/3]">
+                        <img 
+                            src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=2564&auto=format&fit=crop" 
+                            alt="网页设计" 
+                            class="w-full h-full object-cover filter brightness-[0.85] contrast-105 group-hover:scale-[1.03] group-hover:brightness-100 transition-all duration-700 ease-out"
+                        />
+                        <div class="absolute top-4 right-4 p-3 bg-[#0A0A0C]/80 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all duration-300 border border-[#222226]">
+                            <i data-lucide="globe" class="w-4 h-4 text-white"></i>
+                        </div>
+                    </div>
+                    <div class="pt-2">
+                        <div class="flex justify-between items-center">
+                            <h3 class="text-lg font-medium text-white group-hover:text-indigo-400 transition-colors">前沿高端网页设计</h3>
+                            <span class="text-[10px] font-mono px-2 py-0.5 border border-[#222226] text-zinc-500">WEB CREATIVE</span>
+                        </div>
+                        <p class="text-sm text-zinc-400 mt-3 font-light leading-relaxed">
+                            打破传统栅格结构局限的观念性创意站点开发。强调沉浸式转场动效，赋予数字资产极致的视觉张力。
+                        </p>
                     </div>
                 </div>
             </div>
@@ -186,34 +214,34 @@
         <section id="advantages" class="space-y-20 scroll-mt-28">
             <div class="space-y-4">
                 <span class="text-xs uppercase tracking-[0.3em] text-indigo-400 font-mono font-bold">[ 03 / ADVANTAGES ]</span>
-                <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">核心行业优势竞争壁垒</h2>
+                <h2 class="text-3xl md:text-5xl font-bold text-white tracking-tight">全栈链路核心竞争优势</h2>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="p-10 bg-[#121215]/40 border border-[#222226] hover:border-zinc-700 transition-all duration-500 flex flex-col justify-between group">
                     <div class="space-y-6">
                         <div class="p-3.5 w-fit bg-[#0A0A0C] border border-[#222226] text-indigo-400 group-hover:text-white group-hover:bg-indigo-600 transition-all">
-                            <i data-lucide="cpu"></i>
+                            <i data-lucide="mouse-pointer-click"></i>
                         </div>
-                        <h3 class="text-xl font-semibold text-white tracking-wide">AI 工业级重构</h3>
+                        <h3 class="text-xl font-semibold text-white tracking-wide">Figma组件化系统专家</h3>
                         <p class="text-zinc-400 text-sm leading-relaxed font-light">
-                            熟练掌握高阶 ControlNet 精准控图、LoRA 模型微调及文生图全链路。不仅是做创意图，而是将 AI 无缝内嵌至商业量产与策划案落地，提升百倍创意能效。
+                            拥有极深的 UI 设计系统（Design System）沉淀，善于利用 Tokens 与 Auto Layout 搭建大型敏捷产品界面，无缝对接研发管线。
                         </p>
                     </div>
-                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 01_CREATIVE_AI</div>
+                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 01_INTERACTION</div>
                 </div>
 
                 <div class="p-10 bg-[#121215]/40 border border-[#222226] hover:border-zinc-700 transition-all duration-500 flex flex-col justify-between group">
                     <div class="space-y-6">
                         <div class="p-3.5 w-fit bg-[#0A0A0C] border border-[#222226] text-indigo-400 group-hover:text-white group-hover:bg-indigo-600 transition-all">
-                            <i data-lucide="layers"></i>
+                            <i data-lucide="layout-grid"></i>
                         </div>
-                        <h3 class="text-xl font-semibold text-white tracking-wide">顶尖宏观品牌思维</h3>
+                        <h3 class="text-xl font-semibold text-white tracking-wide">次世代虚幻渲染力</h3>
                         <p class="text-zinc-400 text-sm leading-relaxed font-light">
-                            绝不流于单纯的视觉包装。从品牌定位、用户体感、竞争差异化出发，推导整套高度系统化、具备跨媒介延展生命力的视觉识别指南与资产。
+                            打破传统 3D 软件单帧出图的低效率，熟练掌握 UE5 实时渲染与场景概念艺术搭建。能高效输出电影级别精细度的实时交互内容。
                         </p>
                     </div>
-                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 02_BRAND_STRATEGY</div>
+                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 02_3D_REALTIME</div>
                 </div>
 
                 <div class="p-10 bg-[#121215]/40 border border-[#222226] hover:border-zinc-700 transition-all duration-500 flex flex-col justify-between group">
@@ -221,12 +249,12 @@
                         <div class="p-3.5 w-fit bg-[#0A0A0C] border border-[#222226] text-indigo-400 group-hover:text-white group-hover:bg-indigo-600 transition-all">
                             <i data-lucide="framer"></i>
                         </div>
-                        <h3 class="text-xl font-semibold text-white tracking-wide">全链路极致执行</h3>
+                        <h3 class="text-xl font-semibold text-white tracking-wide">极致像素主义控场</h3>
                         <p class="text-zinc-400 text-sm leading-relaxed font-light">
-                            兼备三维质感表现、高级动态视觉以及 C 端数字化体验设计能力。以像素级苛刻眼光把控落地物料输出，对高级留白、栅格系统和字体排版有偏执追求。
+                            对前端的高级留白、字距排版（Typography）和自适应网格规范有偏执般的追求。让设计作品既具备商业逻辑，更兼具艺术观赏价值。
                         </p>
                     </div>
-                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 03_TOTAL_EXECUTION</div>
+                    <div class="text-[10px] font-mono text-zinc-600 pt-10">/ 03_TOTAL_DEVELOPMENT</div>
                 </div>
             </div>
         </section>
@@ -235,11 +263,11 @@
 
     <section id="contact" class="h-screen w-full bg-gradient-to-t from-zinc-950 to-[#0A0A0C] flex flex-col justify-between pt-36 pb-12 border-t border-[#222226]/60 scroll-mt-20">
         <div class="max-w-custom mx-auto px-6 md:px-12 lg:px-16 w-full flex-1 flex flex-col justify-center items-center text-center">
-            <span class="text-xs uppercase tracking-[0.4em] text-indigo-400 mb-6 font-mono font-bold animate-bounce">LET'S BUILD THE FUTURE</span>
+            <span class="text-xs uppercase tracking-[0.4em] text-indigo-400 mb-6 font-mono font-bold animate-bounce">LET'S WORK TOGETHER</span>
             
             <h2 class="text-4xl md:text-7xl font-extrabold tracking-tight text-white max-w-5xl leading-tight mb-14">
-                准备好为你的品牌资产 <br />
-                注入高级感的科技基因了吗？
+                准备好为你的产品生态 <br />
+                注入高端数字体验了吗？
             </h2>
             
             <a 
